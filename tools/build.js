@@ -1,10 +1,10 @@
 {
     "appDir": "../www",
-    "baseUrl": "lib",
+    "baseUrl": "scripts",
     "paths": {
         "app": "../app"
     },
-    "dir": "../www-built",
+    "dir": "../dist",
     "modules": [
         {
             "name": "app"
